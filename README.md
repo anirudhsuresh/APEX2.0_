@@ -40,8 +40,6 @@ Since APEX is designed to so as to understand the the socio-technical aspects of
 4. Below both the social and technical network visuals we shows some stats associated with the project for that month . Like Number of emails exchanges for that month , etc 
 5. Some other functionality include the ability to resize windows to better understand the data /visuals/text. Also the social and technical networks have buttons to help control their size.
 
-## Directory 
-While for this I am only submitting the ```index.html``` file. Other files can be found at: [Link](https://github.com/anirudhsuresh/APEX_2.0)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
